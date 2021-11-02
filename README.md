@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jota969
+- 👋 Hi, I’m @Domi969
 - 👀 I’m interested in FiveM Programming and random stuff.
 - 🌱 I’m currently learning C# and LUA
 - 💞️ I’m looking to collaborate on FiveM Servers
